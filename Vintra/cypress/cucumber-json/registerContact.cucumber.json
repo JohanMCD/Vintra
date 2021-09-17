@@ -22,7 +22,7 @@
             "name": "The page is online \"startWeb\"",
             "result": {
               "status": "passed",
-              "duration": 131000000
+              "duration": 123000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Access the page",
             "result": {
               "status": "passed",
-              "duration": 61000000
+              "duration": 39000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Verify the availability",
             "result": {
               "status": "passed",
-              "duration": 7000000
+              "duration": 5000000
             }
           }
         ]
@@ -62,7 +62,7 @@
             "name": "The page is availability \"login\"\"otherData\"",
             "result": {
               "status": "passed",
-              "duration": 40000000
+              "duration": 46000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "Put the user and password",
             "result": {
               "status": "passed",
-              "duration": 38000000
+              "duration": 35000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "The login is completed",
             "result": {
               "status": "passed",
-              "duration": 27000000
+              "duration": 33000000
             }
           }
         ]
@@ -102,7 +102,7 @@
             "name": "The user is logged \"register\"\"otherData\"",
             "result": {
               "status": "passed",
-              "duration": 37000000
+              "duration": 36000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "Create a contact",
             "result": {
               "status": "passed",
-              "duration": 24000000
+              "duration": 27000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "The contact has been created successfully",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 3000000
             }
           }
         ]
@@ -142,7 +142,7 @@
             "name": "The contact has been created \"consult\"\"otherData\"",
             "result": {
               "status": "passed",
-              "duration": 31000000
+              "duration": 35000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "Consult the contact",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 23000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "The user is logged \"register\"\"otherData\"",
             "result": {
               "status": "passed",
-              "duration": 18000000
+              "duration": 21000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "Modify the data contact",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 3000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "The contact has been updated",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 3000000
             }
           }
         ]
@@ -222,7 +222,7 @@
             "name": "The user is logged \"register\"",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 35000000
             }
           },
           {
@@ -232,7 +232,7 @@
             "name": "Delete the contact",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 5000000
             }
           },
           {
@@ -242,7 +242,7 @@
             "name": "The contact has been deleted",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 4000000
             }
           }
         ]
