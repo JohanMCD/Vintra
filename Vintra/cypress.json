@@ -1,0 +1,8 @@
+{
+    "testFiles": "**/*.feature",
+    "integrationFolder": "cypress/features",
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 120000,
+    "videoCompression": false,
+    "reporter": "cypress-multi-reporters"
+    }

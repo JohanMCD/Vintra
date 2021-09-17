@@ -1,0 +1,9 @@
+{
+    "url": "http://localhost:8000/auth/login",
+    "method":"POST",
+    "user": "test",
+    "password": "1234",
+    "urlConfirm": "http://localhost:8000/auth/me",
+    "methodConfirm":"GET"
+}
+  

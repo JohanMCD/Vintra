@@ -1,0 +1,10 @@
+{
+    "url": "http://localhost:8000/api/v1/contacts/",
+    "method":"POST",
+    "firstName": "Jose",
+    "lastName": "Martinez",
+    "email": "Martinez@qa.com",
+    "phone":"655497474",
+    "mobile":"68546225"
+}
+  
