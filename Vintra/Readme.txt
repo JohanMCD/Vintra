@@ -6,9 +6,10 @@ C:\Users\*****-local\******\Vintra\Vintra
 Once there, execute the following command:
  node_modules\.bin\cypress open
 
-The project is structured in 4 main parts:
-
 When the server is running, launch the regression.
+
+
+The project is structured in 4 main parts:
 
 Features:In this folder we have the scenarios with their reapective steps.
 
