@@ -6,4 +6,4 @@ I have identified 7 incidents:
 4 - The mail field does not validate the format, example: qa@qa.com. It is the best candidate to be a primary key.
 5 - The phone number allows letters and signs
 6 - The mobile allows letters and signs
-7 - white space is considered like data
+7 - White space is considered like data
